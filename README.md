@@ -1,17 +1,5 @@
-> **This is a template for creating GSQ Dataset Profiles.**  
-> This page uses [Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) for text formatting.  
-> Recommended reading:  
-> * [What is a dataset profile?](https://github.com/geological-survey-of-queensland/gsq-info-model/wiki/What-is-a-Dataset-Profile%3F)  
-> * [How to create a dataset profile?](https://github.com/geological-survey-of-queensland/gsq-info-model/wiki/How-to-create-a-dataset-profile)  
->
-> To use this template for a new profile, click the **Use this template** button. See [full instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template).  
-> <img src="create-template.png">
->
-> _NOTE: Remove this text block when no longer required._ :sunglasses:
-___
-
-# Dataset Profile Name
-Provide a short introduction to the profile to help the reader understand the context and purpose of the dataset profile.
+# GSQ Observation Profile
+An observation is the act of carrying out an observation using a procedure to estimate or calculate a value of a geological or administrative feature.
 
 <p align="center">
 <img src="model/profile-template.svg" width="700px"><br>
