@@ -1,5 +1,7 @@
 # GSQ Observation Profile
-An observation is the act of carrying out an observation using a procedure to estimate or calculate a value of a geological or administrative feature.
+This profile describes the `observation` concept.
+
+GSQ uses `observation` tp describe the act of carrying out an observation using a procedure to estimate or calculate a value of a geological or administrative feature.
 
 <p align="center">
 <img src="model/profile-template.svg" width="700px"><br>
