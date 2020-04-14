@@ -35,7 +35,7 @@ Classes used in this profile:
 7. [time:hasEndTime](https://www.w3.org/TR/owl-time/#time:hasBeginning)
 
 ## [Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution) properties not shown in the diagram:
-No distribution properties for Survey template
+No distribution properties for Observation template
 
 ## Vocabularies
 1. [Sample preparation](http://vocabs.gsq.digital/vocabulary/sample-preparation-methods)
