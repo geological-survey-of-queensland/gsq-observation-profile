@@ -22,7 +22,7 @@ Classes used in this profile:
 2. [GSQ Administrative Feature](https://github.com/geological-survey-of-queensland/geoadmin-features-ont)
 3. [GSQ Site](https://github.com/geological-survey-of-queensland/gsq-site-profile)
 4. [GSQ Sample](https://github.com/geological-survey-of-queensland/gsq-sample-profile)
-5. [GSQ Result]
+5. [GSQ Result](https://github.com/geological-survey-of-queensland/gsq-results-profile)
 6. [GSQ Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 ## OWL classes
